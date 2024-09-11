@@ -1,0 +1,7 @@
+I've already created a basic nextjs application. In the ‘app/page.tsx’ file, I want you to create the following elements: 
+
+1. A list of 500 foods, for each food (for example: potato, onion, rice) we'll have all the nutritional information for that food per 100 grams.
+2. The user will have a search field where they can type in a food, the food will appear and the user will be able to validate the food.
+3. Once the food has been validated, a text such as ‘Food selected: onion’ will appear. If no food has been selected, add the text ‘You must search for a food using the search bar above’.
+4. If the user has validated a food, they must then indicate the weight of this food, for example 84 grams, using an input field.
+5. Then, depending on the food and the weight, display all the nutritional information for that food (calories, proteins, carbohydrates, lipids, vitamins, minerals, etc.).
